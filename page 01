@@ -1,0 +1,45 @@
+<html> 
+    <head> 
+         <style>
+		 
+		   p {
+           color: slateblue;
+           font-size: 40v;
+           font-family: serif;
+           font-style: italic;
+           text-align: center;
+           width: 100vw;
+           }
+		   
+		   h1 {
+           color: darkgreen;
+           font-size: 70v;
+           font-family: serif;
+           font-style: italic;
+           text-align: center;
+           width: 200vw;
+           }
+		   
+		   body {
+           background-color: #5c5cd6;
+           }
+		
+		 </style> 
+		
+    </head> 
+	
+	
+	
+       <body>
+           <h1>
+		   another machine for another purpose
+           </h1>
+           <p>
+		   some other visions down below...
+           </p>		   
+	
+	   </body> 
+	   
+	   
+		
+</html>
