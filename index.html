@@ -25,20 +25,50 @@
            background-color:#602040;
            }
 		
+		     ul.breadcrumb {
+                     padding: 16px 32px;
+                     list-style: none;
+                     background-color:transparent;
+                     }
+
+                    ul.breadcrumb li {display: inline;}
+
+                    ul.breadcrumb li+li:before {
+                    padding: 16px;
+                    color:#ffffcc;
+                    content: "/\00a0";
+                    }
+
+                    ul.breadcrumb li a {color:#99ccff;}
+		 
+		    a:hover{
+			    color:#ffd9b3;
+		            }
+		 
 		 </style> 
+	    
+	    
 		
     </head> 
 	
 	
 	
     <body>
+	    <ul class="breadcrumb">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="01.html">01</a></li>
+            <li><a href="02.html">02</a></li>
+            </ul>
+
+	    
+	    
+	    
            <h1>
 		   a false pollen 
            </h1>
       
            <p>
        Some kind of dust. Images below.
-       <a href="01.html">other machines</a> 
            </p>		   
 	
 	   </body> 
