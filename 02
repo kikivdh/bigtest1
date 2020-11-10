@@ -1,0 +1,46 @@
+!DOCTYPE html>
+<html> 
+    <head> 
+        <style>
+		 
+		   p {
+           color:#ffdb4d;
+           font-size: 40v;
+           font-family: serif;
+           font-style: italic;
+           text-align: center;
+           width: 100vw;
+           }
+		   
+		   h1 {
+           color:#ffffcc;
+           font-size: 70v;
+           font-family: serif;
+           font-style: italic;
+           text-align: center;
+           width: 100vw;
+           }
+		   
+		   body {
+           background-color:#602040;
+           }
+		
+		 </style> 
+		
+    </head> 
+	
+	
+	
+       <body>
+           <h1>
+		    03
+           </h1>
+           <p>
+		   I THINK THE CIVIL TWILIGHT DETECTOR GOES IN HERE
+           </p>		   
+	
+	   </body> 
+	   
+	   
+		
+</html>
