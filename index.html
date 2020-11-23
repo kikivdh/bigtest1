@@ -51,8 +51,25 @@
                                margin-right: auto;
                                width: 25%;
                                    }
+		 
+		 
+		 .rotate {
+    display: inline-block;
+    -webkit-animation: rotate 12s linear infinite;
+    animation: rotate 12s linear infinite;
+}
+		 
+		 
 			    
-			    
+		@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+			}}	   
+		 
+		 
 			    
 		 </style> 
 	    
@@ -84,7 +101,7 @@
 	    
     
 	   
-	    <img src="Asset 1.svg"class="center"style="width:1000px;height:1000px;">
+	    <div class="rotate"><img src="Asset 1.svg"class="center"style="width:1000px;height:1000px;"></div>
 	
 	   </body> 
 	   	
